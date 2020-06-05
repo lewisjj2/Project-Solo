@@ -1,3 +1,17 @@
+/*Pause Video Button*/
+const video = document.getElementById('home-bg-video');
+const pauseBtn = document.querySelector('.pause');
+
+pauseBtn.addEventListener('click', function(){
+    if(video.paused) {
+        video.play();
+    }else {
+        video.pause();
+    }
+});
+
+
+
 
 /*Owl Carousel*/
 $(function () {

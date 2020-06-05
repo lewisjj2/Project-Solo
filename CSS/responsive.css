@@ -88,6 +88,12 @@
     .site-nav-wrapper {
         padding: 0;
     }
+    
+    /*Pause Button*/
+    .pause i {
+        left: 5rem;
+        top: 50rem;
+    }
     /*Generic*/
     .vertical-heading h2 {
         font-size: 28px;
@@ -110,6 +116,12 @@
     .site-nav-wrapper {
         padding: 0;
     }
+    
+    /*Pause Button*/
+    .pause i {
+        left: 5rem;
+        top: 50rem;
+    }
     /*Home*/
     #home-heading h1 {
         font-size: 40px;
@@ -117,6 +129,7 @@
     #home-text p {
         font-size: 14px;
     }
+    
     /*Generic*/
     .btn-general {
         padding: 8px 34px 8px 34px;
@@ -206,6 +219,10 @@
         font-size: 12px;
         line-height: 18px;
         margin: 8px 2px 30px 2px;
+    }
+     .pause i {
+        left: 5rem;
+        top: 50rem;
     }
     
     /*Generic*/
